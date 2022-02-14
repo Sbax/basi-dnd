@@ -56,7 +56,7 @@ Spesso per i nuovi giocatori è facile confondere Intelligenza e Saggezza, un mo
 
 Esistono diverse regole per stabilire le caratteristiche iniziali, chiedi al tuo master quale ha scelto prima della creazione.
 
-La media in ogni caratteristica è di 10, un punteggio di 18 è molto alto, mentre il 20 è il massimo raggiungibile da un avventuriero, mentre le creature mostruose che popolano il mondo di gioco possono raggiungere persino il 30.
+La media in ogni caratteristica è di 10, un punteggio di 18 è molto alto, 20 è il punteggio massimo raggiungibile da un avventuriero, mentre le creature mostruose che popolano il mondo di gioco possono raggiungere persino un punteggio di 30.
 
 Ad ogni caratteristica è collegato un modificatore caratteristica che si può calcolare prendendo il punteggio originale, sottraendo 10 e dividendo per 2 arrotondando il risultato per difetto.
 
@@ -66,7 +66,7 @@ Ad esempio, un punteggio di 18 diventerebbe un +1 (18 - 10 = 8 / 2 = 4) e un pun
 
 Ogni personaggio ha una razza di appartenenza, le razze definiscono le caratteristiche comuni di tutti i membri della stessa razza come età, stazza, velocità, lingue conosciute, allineamento tipico e come questi tratti si riflettono sulle meccaniche di gioco.
 
-Non tutte le razze sono giocabili in ogni ambientazione, chiedi sempre al tuo maaster quali sono consentite nel suo mondo di gioco.
+Non tutte le razze sono giocabili in ogni ambientazione, chiedi sempre al tuo master quali sono consentite nel suo mondo di gioco.
 
 ## Le Classi
 
