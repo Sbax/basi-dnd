@@ -24,7 +24,7 @@ Le **sessioni di gioco** sono le singole *partite* che compongono l'avventura, e
 - le **oneshot** sono avventure brevi che terminano in un'unica sessione;
 - le **campagne** sono avventure molto lunghe che terminano in più sessioni, spesso nell'arco di diverse settimane.
 
-## Come si inizia a giocare
+# Come si inizia a giocare
 
 Prima di giocare è necessario stabilire un patto sociale, prendere una serie di decisioni che chiariscono quali saranno i ruoli dei partecipanti (chi sarà il master e quali saranno i giocatori), le modalità di gioco (dove e quando si gioca, come verranno applicate le regole...), l'ambientazione e le aspettative rispetto all'avventura di tutti i giocatori.
 
@@ -35,6 +35,18 @@ Il passaggio successivo sarà effettivamente iniziare a giocare con la prima ses
 Durante la sessione zero il master avrà il compito di chiarire con i giocatori il patto sociale e illustrare i dettagli della propria **ambientazione** fornendo una descrizione del mondo di gioco su cui si svolgerà l'avventura.
 
 Dopodiché sarà il momento per i giocatori di creare i propri personaggi.
+
+## I Tiri
+
+D&D è basato principalmente sul dado a 20 facce altrimento detto d20, ogni volta che sarà richiesta una prova sarà necessario tirare 1d20 sommando i modificatori appropriati, il risultato del dado determinerà l'esito della prova.
+
+### Vantaggio e Svantaggio
+
+Alcune regole o per scelta del master, potrebbero richiedere un tiro con vantaggio o svantaggio.
+
+Nel caso di vantaggio a una prova andranno tirati 2d20 e scelto il risultato migliore.
+
+Nel caso di svantaggio a una prova andranno invece tirati 2d20 e scelto il risultato peggiore.
 
 ## Creare un personaggio
 ### Le Caratteristiche
@@ -60,15 +72,15 @@ La media in ogni caratteristica è di 10, un punteggio di 18 è molto alto, 20 �
 
 Ad ogni caratteristica è collegato un modificatore caratteristica che si può calcolare prendendo il punteggio originale, sottraendo 10 e dividendo per 2 arrotondando il risultato per difetto.
 
-Ad esempio, un punteggio di 18 diventerebbe un +1 (18 - 10 = 8 / 2 = 4) e un punteggio di 9 diventerebbe un -1 (9 - 10 = -1 / 2 = -1).
+Ad esempio, un punteggio di 18 diventerebbe un +1 (`18 - 10 = 8 / 2 = 4`) e un punteggio di 9 diventerebbe un -1 (`9 - 10 = -1 / 2 = -1`).
 
-## Le Razze
+### Le Razze
 
 Ogni personaggio ha una razza di appartenenza, le razze definiscono le caratteristiche comuni di tutti i membri della stessa razza come età, stazza, velocità, lingue conosciute, allineamento tipico e come questi tratti si riflettono sulle meccaniche di gioco.
 
 Non tutte le razze sono giocabili in ogni ambientazione, chiedi sempre al tuo master quali sono consentite nel suo mondo di gioco.
 
-## Le Classi
+### Le Classi
 
 Ad ogni personaggio è associata una classe, la classe è l'insieme delle capacità a cui avrà accesso il proprio personaggio, sull'SRD troviamo:
 
@@ -92,9 +104,9 @@ Come per le razze, non tutte le classi sono giocabili in ogni ambientazione, è 
 
 Oltre a queste classi nei manuali sarà possibile trovarne altre assieme a vari *sentieri*, delle evoluzioni particolari della propria classe che emergeranno con l'avanzare dei livelli.
 
-## Il Bonus di Competenza
+### Il Bonus di Competenza
 
-Il Bonus di Competenza è un punteggio legato al livello che determina quanto l'addestramento, le esperienze pregresse o le doti naturali impattino sulle meccaniche di gioco. Verrà aggiunto al risultato di una prova ogni volta che sarà applicabile. 
+Il Bonus di Competenza è un modificatore legato al livello che determina quanto l'addestramento, le esperienze pregresse o le doti naturali impattino sulle meccaniche di gioco. Verrà aggiunto al risultato di una prova ogni volta che sarà applicabile. 
 
 | Livello | Bonus di Competenza |
 |---|---|
@@ -119,15 +131,15 @@ Il Bonus di Competenza è un punteggio legato al livello che determina quanto l'
 | 19 | +6 |
 | 20 | +6 |
 
-## I Tiri Salvezza
+### I Tiri Salvezza
 
 In determinate circostanze il vostro personaggio potrebbe trovarsi in una situazione che richiede una reazione imprevista per superare la minaccia, in questi casi il master può chiedere di effettuare un Tiro Salvezza.
 
 Per fare un tiro salvezza tira 1d20, aggiungi il modificatore caratteristica pertinente e il Bonus di Competenza quando applicabile (è determinato dalla Classe del proprio personaggio).
 
-Ad esempio: una palla di fuoco si schianta su un guerriero e un ranger, il master chiede di effettuare un tiro salvezza su destrezza. Il guerriero dovrà tirare 1d20 e sommare il suo modificatore destrezza, mentre il ranger, avendo competenza sui tiri salvezza Destrezza e Forza, dovrà tirare 1d20 e sommare il suo modificatore destrezza e il suo bonus di competenza. Il risultato dei tiri determinerà chi ha superato la prova fissata dal master e quali saranno gli effetti.
+Ad esempio: una palla di fuoco si schianta su un guerriero e un ranger, il master chiede di effettuare un tiro salvezza su destrezza. Il guerriero dovrà tirare 1d20 e sommare il suo modificatore destrezza, mentre il ranger, avendo competenza sui tiri salvezza Destrezza e Forza, dovrà tirare 1d20 e sommare il suo modificatore destrezza e il suo Bonus di Competenza. Il risultato dei tiri determinerà chi ha superato la prova fissata dal master e quali saranno gli effetti.
 
-## Le Abilità
+### Le Abilità
 
 Alle Caratteristiche sono associate diverse abilità che rappresentano numericamente quanto il nostro personaggio sia in grado di applicare le proprie forze con obiettivi specifici.
 
@@ -151,3 +163,176 @@ Alle Caratteristiche sono associate diverse abilità che rappresentano numericam
 | Religione | Intelligenza | Le conoscenze in ambito divino riguardo a simboli, leggende o preghiere dei pantheon del mondo di gioco |
 | Sopravvivenza | Saggezza | La capacità di seguire tracce, cacciare o trovare percorsi sicuri nella natura selvaggia |
 | Storia | Intelligenza | Le conoscenze riguardo persone, luoghi ed eventi storici del mondo di gioco |
+
+Potrebbe essere utile sapere il valore passivo di un'abilità, ad asempio la percezione passiva può essere utilizzata per capire quali sono le informazioni che è possibile intuire automaticamente entrando in una stanza. Per calcolare il valore passivo delle abilità è sufficiente sommare 10 al modificatore di abilità corrispondente.
+
+### La Classe Armatura
+
+La Classe Armatura è il punteggio da superare per colpire un bersaglio. Un personaggio senza armatura e senza scudi ha una Classe Armatura pari a `10 + modificatore destrezza`. Armature e scudi applicano bonus differenti rispetto alla tipologia scelta.
+
+La propria Classe definisce le competenze in merito alle armature, è possibile indossare un'armatura per cui non si ha la competenza, ma non sarà più possibile lanciare incantesimi e tutte le prove su Forza o Destrezza avranno svantaggio.
+
+### L'Iniziativa
+
+L'Iniziativa indica la prontezza di riflessi, prima di un combattimento sarà necessario fare un tiro su Iniziativa per determinare l'ordine di azione.
+
+### I Punti Ferita e i Dadi Vita
+
+I Punti Ferita sono il valore di resistenza ai danni di un personaggio o una creatura, ogni Classe definisce un Dado Vita da utilizzare per calcolare i punti ferita.
+
+Alla creazione del personaggio si prende un numero di Punti Ferita pari al massimo risultato possibile sommato al modificatore Costituzione.
+
+Ogni personaggio ha a disposizione un numero di Dadi Vita pari al suo livello. I Dadi Vita possono essere utilizzati anche per recuperare Punti Ferita durante i riposi brevi. La metà dei Dadi Vita consumati in questo modo (minimo 1) si recuperano durante un Riposo Lungo.
+
+| Classe | Dado Vita |
+|---|---|
+| Barbaro | d12 |
+| Bardo | d8 |
+| Chierico | d8 |
+| Druido | d8 |
+| Guerriero | d10 |
+| Monaco | d8 |
+| Paladino | d10 |
+| Ranger | d10 |
+| Ladro | d8 |
+| Stregone | d6 |
+| Warlock | d8 |
+| Mago | d6 |
+
+## Il Background
+
+Il Background è una sorta di archetipo che inserisce il personaggio in un'insieme di persone con esperienze comuni. I manuali ne definiscono molti, è anche possibile crearne dei nuovi, d'accordo col proprio master.
+
+I Background aggiungono competenze in equipaggiamenti e abilità, linguaggi conosciuti e elencano danaro ed equipaggiamento iniziale. Definiscono inoltre Tratti Caratteriali, Ideali, Legami e Difetti del proprio personaggio.
+
+Il Background non è da confondere con la storia del proprio personaggio (o backstory) che, solitamente, non ha impatti diretti sulle meccaniche di gioco.
+
+## Gli Incantesimi
+
+Ogni Incantatore ha una **Caratteristica da Incantatore** che indica quale delle sue Caratteristiche verrà usata per lanciare Incantesimi.
+
+    WORK IN PROGRESS
+
+## Riassunto
+1. Definisci col master come calcolare le caratteristiche e distribuiscile
+2. Scegli una Razza e una Classe
+3. Scegli il tuo Background
+4. Calcola i valori di Tiri Salvezza, Abilità, Punti Ferita e Classe Armatura
+5. Segna l'equipaggiamento, le competenze e i privilegi di Razza e Classe
+6. Se sei un Incantatore scegli gli Incantesimi dalla lista della tua Classe
+
+# Il Combattimento
+
+Il Combattimento comincia con il tiro di Iniziativa di personaggi e creature nemiche coinvolte. Questo determinerà l'ordine di interazione nel combattimento.
+
+Ogni partecipante avrà a disposizione un **Turno** in cui compiere azioni in ordine di iniziativa, quando si conclude il Turno dell'ultimo giocatore si conclude un **Round** di combattimento e si comincia il Round successivo dal primo giocatore, finché l'incontro non viene risolto.
+
+Un Round dura circa 6 secondi, i Turni all'interno del Round sono quindi quasi in contemporanea.
+
+Ogni partecipante durante il suo turno ha a disposizione:
+- un'azione di movimento;
+- un'azione che può essere:
+  - un attacco,
+  - un attacco con due armi,
+  - prendere in lotta un bersaglio,
+  - spingere un bersaglio,
+  - uno scatto al massimo della propria velocità,
+  - un disimpegno,
+  - un'azione difensiva,
+  - un'azione di aiuto,
+  - nascondersi,
+  - usare un'abilità o un oggetto,
+  - preparare un'azione;
+- un'azione bonus;
+- una reazione;
+
+## Movimento
+
+Durante il proprio turno è possibile muoversi al massimo della propria velocità (definita dalla propria Razza). Il Movimento può essere spezzato durante il Turno per mescolarlo alle altre azioni.
+
+Durante il Movimento è possibile effettuare un'**Interazione**, ovvero un'azione estremamente semplice da includere al movimento come comunicare con i propri compagni o estrarre un'arma.
+
+## Azione
+### Attacchi
+
+Ogni volta che si cerca di attaccare un bersaglio sarà necessario effettuare un **Tiro per Colpire** con 1d20 sommato al modificatore caratteristica appropriato e il Bonus di Competenza se applicabile (l'elenco delle competenze per le armi è indicato nella propria Classe).
+
+Se il colpo va a buon fine (sarà il master a dirvi se avete superato o meno la Classe Armatura del nemico), sarà necessario tirare il danno, dipendente dall'arma scelta a cui va sommata la caratteristica utilizzata.
+
+Molte armi hanno caratteristiche speciali, verifica sul manuale quali regole si applicano alla tua arma.
+
+#### Attacchi Corpo a Corpo
+
+Utilizzando un'arma corpo a corpo o combattendo a mani nude sarà necessario effettuare un Tiro per Colpire su Forza.
+
+La gittata delle armi corpo a corpo stabilisce l'area di minaccia, uscire da un'area di minaccia comporta lo scatenarsi di un **Attacco di Opportunità**, la possibilità di compiere un attacco al di fuori del proprio turno di iniziativa.
+
+#### Attacchi a Distanza
+
+Utilizzando un'arma a distanza o lanciando un'arma sarà necessario effettuare un Tiro per Colpire su Destrezza.
+
+La gittata delle armi a distanza è composta da due numeri, il primo numero è quello entro la quale si colpisce senza malus, il secondo quella entro la quale si può tentare di colpire con svantaggio, oltre il secondo numero non sarà possibile tentare di colpire (o sarà un fallimento automatico).
+
+Tentare di colpire con un'arma a distanza un nemico adiacente a sé impone svantaggio al Tiro per Colpire.
+
+#### Incantesimi
+
+Gli incantesimi possono richiedere un Tiro per Colpire o un Tiro Salvezza, nel caso in cui richiedano un Tiro per Colpire sarà necessario usare la propria Caratteristica da Incantatore (specificata nella propria Classe) e il Bonus di Competenza, altrimenti non sarà necessario effettuare un Tiro per Colpire, ma starà alla creatura cercare di superare la Classe Difficoltà Tiro Salvezza Incantesimi dell'incantatore che si calcola come `8 + Caratteristica da Incantatore + Bonus di Competenza`.
+
+### Attacco con Due Armi
+
+Ogni personaggio può combattere con due armi che dispongono della proprietà *leggera*, ma richiederà di utilizzare l'Azione per compiere un attacco e l'Azione Bonus per compiere un secondo attacco con la mano secondaria. Il secondo attacco non sommerà la caratteristica ai danni.
+
+### Prendere in Lotta
+
+Si può utilizzare la propria azione per Prendere in Lotta un bersaglio se si ha almeno una mano libera, sarà necessario effettuare una prova di atletica contrapposta ad una prova di atletica o di acrobazia del bersaglio.
+
+Un bersaglio Afferrato non può muoversi durante il suo turno, ma può attaccare o ripetere il tiro per liberarsi.
+
+### Spingere
+
+Si può utilizzare la propria azione per Spingere un bersaglio per allontanarlo di 1.5m o farlo cadere a terra, sarà necessario effettuare una prova di atletica contrapposta ad una prova di atletica o di acrobazia del bersaglio.
+
+Un bersaglio a terra è considerato Prono e dovrà usare metà del suo movimento per alzarsi, finché è a terra tutti gli Attacchi Corpo a Corpo hanno vantaggio, mentre gli attacci da distanza hanno svantaggio. Tutti gli attacchi di un bersaglio a terra hanno svantaggio.
+
+### Scatto
+
+Si può utilizzare la propria azione per effettuare un'altra azione di movimento e muoversi al massimo della propria velocità.
+
+### Disimpegno
+
+Si può utilizzare la propria azione per rinunciare al combattimento assicurandosi di non incorrere in Attacchi di Opportunità.
+
+### Difesa
+
+Si può utilizzare la propria azione per concentrarsi sulla difesa e sullo schivare i colpi dei nemici imponendogli svantaggio a tutti i tiri per colpire.
+
+### Aiuto
+
+Si può utilizzare la propria azione per aiutare un compagno dandogli vantaggio a un Tiro per Colpire o a una Prova Abilità in cui è impegnato.
+
+### Nascondersi
+
+Si può utilizzare la propria azione per tentare di nascondersi dai nemici, sarà necessario trovare un nascondiglio appropriato ed effettuare una prova di furtività contro la percezione passiva dei nemici.
+
+Un bersaglio nascosto ha vantaggio a tutti i Tiri per Colpire.
+
+### Usare un'Abilità o un Oggetto
+
+Si può utilizzare la propria azione per usare una propria abilità o un oggetto in proprio possesso, magico o non.
+
+### Preparare un'azione
+
+Si può rinunciare alla propria azione per effettuarla in un momento più opportuno. In questo caso sarà necessario definire un *trigger* che definisce quando scatterà l'azione preparata e un *effetto* che si attiverà di conseguenza.
+
+Nel caso in cui si scelga un incantesimo che consuma slot, lo slot viene consumato anche se il trigger non scatta.
+
+## Azione Bonus
+
+L'Azione Bonus è una risorsa particolare spendibile solo se richiesto da un incantesimo, un oggetto o un privilegio che lo specifica.
+
+Non è possibile utilizzare un'Azione Bonus come Azione o viceversa.
+
+## Reazione
+
+La Reazione, come l'Azione Bonus, è una risorsa spendibile solamente se specificato da un incantesimo, un oggetto o un privilegio che lo specifica, generalmente avviene al di fuori del proprio Turno e non può essere utilizzata nuovamente fino alla fine del Round.
