@@ -1,0 +1,15 @@
+{
+  "type": [
+    "pdf"
+  ],
+  "styles": [],
+  "includeDefaultStyles": true,
+  "headerTemplate": "<div></div>",
+  "footerTemplate": "<div style=\"font-size: 9px; font-family: Helvetica, Arial, Sans-Serif; margin: 0 auto;\"><span>Guida di base a D&D 5e - https://github.com/Sbax/basi-dnd</span></div>",
+  "margin": {
+    "top": "2cm",
+    "bottom": "2cm",
+    "right": "1.5cm",
+    "left": "1.5cm"
+  }
+}
