@@ -54,6 +54,7 @@ Questa risorsa è stata realizzata per e con il contributo del canale [D&D ITA s
     - [Preparare un'azione](#preparare-unazione)
   - [Azione Bonus](#azione-bonus)
   - [Reazione](#reazione)
+  - [Economia delle Azioni e Lancio di Incantesimi](#economia-delle-azioni-e-lancio-di-incantesimi)
 - [Riposi](#riposi)
 
 # Introduzione
@@ -456,6 +457,26 @@ Non è possibile utilizzare un'Azione Bonus come Azione o viceversa.
 La **Reazione**, come l'[Azione Bonus](#azione-bonus), è una risorsa spendibile solamente se specificato da un incantesimo, un oggetto o un privilegio che lo specifica, generalmente avviene al di fuori del proprio Turno e non può essere utilizzata nuovamente fino alla fine del Round.
 
 L'attivazione di un'[Azione Preparata](#preparare-unazione) avviene durante la Reazione, così come gli [Attacchi di Opportunità](#attacchi-corpo-a-corpo).
+
+## Economia delle Azioni e Lancio di Incantesimi
+
+Ogni incantesimo specifica un __tempo di lancio__  che può essere un'Azione, un'Azione Bonus o una Reazione, ma ci sono alcuni limiti rispetto a come interagiscono tra loro all'interno dello stesso turno.
+
+Quando si lancia un Incantesimo come Azione Bonus sarà possibile lanciare un altro Incantesimo soltanto se si tratta di un Trucchetto con tempo di lancio un'Azione.
+
+Non sarà quindi possibile lanciare un Incantesimo come Azione e un Incantesimo come Azione Bonus (o Reazione) durante lo stesso turno indipendentemente da che sia o meno un Trucchetto e dall'ordine in cui vengono lanciati.
+
+| Azione | Azione Bonus | Reazione | |
+|---|---|---|---|
+| Incantesimo con Slot o Trucchetto | _Non Incantesimo_ | _Non Incantesimo_ | ✅
+| _Non Incantesimo_ | Incantesimo con Slot o Trucchetto | _Non Incantesimo_ | ✅
+| _Non Incantesimo_ | _Non Incantesimo_ | Incantesimo con Slot o Trucchetto | ✅
+| Incantesimo con Slot | _Non Incantesimo_ | Incantesimo con Slot o Trucchetto | ✅
+| Incantesimo con Slot | Incantesimo con Slot o Trucchetto | _Non Incantesimo_ | ❌
+| Trucchetto | Incantesimo con Slot | _Non Incantesimo_ | ✅
+| _Non Incantesimo_ | Incantesimo con Slot | Incantesimo con Slot o Trucchetto | ❌
+| Incantesimo con Slot o Trucchetto | Incantesimo con Slot o Trucchetto | Incantesimo con Slot o Trucchetto | ❌
+
 
 # Riposi
 
