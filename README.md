@@ -473,8 +473,8 @@ Non sarà quindi possibile lanciare un Incantesimo come Azione e un Incantesimo 
 | _Non Incantesimo_ | _Non Incantesimo_ | Incantesimo con Slot o Trucchetto | ✅
 | Incantesimo con Slot | _Non Incantesimo_ | Incantesimo con Slot o Trucchetto | ✅
 | Incantesimo con Slot | Incantesimo con Slot o Trucchetto | _Non Incantesimo_ | ❌
-| Trucchetto | Incantesimo con Slot | _Non Incantesimo_ | ✅
-| _Non Incantesimo_ | Incantesimo con Slot | Incantesimo con Slot o Trucchetto | ❌
+| Trucchetto | Incantesimo con Slot o Trucchetto | _Non Incantesimo_ | ✅
+| _Non Incantesimo_ | Incantesimo con Slot o Trucchetto | Incantesimo con Slot o Trucchetto | ❌
 | Incantesimo con Slot o Trucchetto | Incantesimo con Slot o Trucchetto | Incantesimo con Slot o Trucchetto | ❌
 
 
